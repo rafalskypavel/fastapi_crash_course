@@ -1,0 +1,3 @@
+uvicorn main:app --reload       (нужен для запуска приложения, который поднимает локальный небольшой вебсервер)
+
+pip freeze > requirements.txt
